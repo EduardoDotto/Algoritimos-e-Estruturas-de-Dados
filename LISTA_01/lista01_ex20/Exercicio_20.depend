@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656709382 source:c:\users\eduar\onedrive\Área de trabalho\biopark\disciplinas\algoritimos e estrutura de dados - leonardo\lista_01\exercicio_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

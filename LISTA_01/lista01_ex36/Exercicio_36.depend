@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656958609 source:c:\users\eduar\onedrive\Área de trabalho\biopark\programas aula\aula_04_07\exercicio_36\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
