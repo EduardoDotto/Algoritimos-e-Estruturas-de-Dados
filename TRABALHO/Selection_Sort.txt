@@ -1,0 +1,4 @@
+Insertion Sort em C
+-Figuras + Textos
+-Codigos exemplo implementado
+-Comparativo entre selection, insert e bubble

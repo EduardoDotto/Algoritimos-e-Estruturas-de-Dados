@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660669000 source:c:\users\eduar\onedrive\Área de trabalho\biopark\disciplinas\algoritimos e estrutura de dados - leonardo\lista_vet_matriz\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+
